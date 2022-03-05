@@ -1,0 +1,61 @@
+
+
+
+.ragamHeading {
+    color: white;
+    font-family: BatmanForeverAlternate;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 33px;
+    line-height: 33px;
+    text-shadow: 4px 4px 0.5px rgba(255, 255, 255, 0.25);
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:50px;
+}
+
+
+
+.listItems {
+    font-family: Roboto Mono;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 24px;
+    color: #FFFFFF;
+    list-style: none;
+}
+
+.navbarVertical {
+    list-style-type: none;
+    all: unset;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-evenly;
+    height: 130px;
+    flex-direction: column;
+}
+
+.eventName{
+    width: 215px;
+    height: 33px;
+    font-family: BatmanForeverAlternate;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 26px;
+    color: #FFFFFF;
+}
+
+.list {
+    padding-top: 187px;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    justify-content: space-evenly;
+    padding-left: 139px;
+}
